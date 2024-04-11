@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://tanusingh.io)
+[![MasterHead](https://www.unite.ai/wp-content/uploads/2023/11/DALL%C2%B7E-2023-11-12-13.06.04-Create-an-anime-style-illustration-of-a-half-human-half-robot-character-engaged-in-coding.-The-human-side-should-be-an-anime-character-of-East-Asian-.png)]
 <h1 align="center">Hi 👋, I'm Tanu singh</h1>
 <h3 align="center">A passionate Designer and blockchain developer from India</h3>
 <img align="right" alt="coding" width"400" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6"
