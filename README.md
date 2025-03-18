@@ -12,9 +12,9 @@
 
 - 🌱 I’m currently learning **web3.js ,figma , adobe XDInVision studio, axure**
 
-- 👯 I’m looking to collaborate on **web3 proects**
+- 👯 I’m looking to collaborate on **web3 projects**
 
-- 💬 Ask me about **figma, Web3**
+- 💬 Ask me about **MERN, Web3**
 
 - 📫 How to reach me **singhtanu8874@gmail.com,**
 
