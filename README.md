@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.pinimg.com/736x/51/88/28/518828819593363422.jpg" width="100%"/>
+<img src="https://github.com/tnusngh/tnusngh/blob/main/bannneerrrrrrrrrrrr.jpg" width="100%"/>
 
 <h1>hey, i'm tanu 💅</h1>
 
