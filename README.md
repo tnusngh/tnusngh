@@ -1,42 +1,147 @@
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Tanu singh</h1>
-<h3 align="center">A passionate Designer and blockchain developer from India</h3>
-<img align="right" alt="coding" width"400" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6"
+<img src="https://i.pinimg.com/736x/51/88/28/518828819593363422.jpg" width="100%"/>
 
+<h1>hey, i'm tanu 💅</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tnusngh&label=Profile%20views&color=0e75b6&style=flat" alt="tnusngh" /> </p>
+<h3>
+🤖 AI & Data | ⛓️ Web3 | 📣 DevRel
+</h3>
 
-<p align="left"> <a href="https://twitter.com/tanusinghvisen" target="blank"><img src="https://img.shields.io/twitter/follow/tanusinghvisen?logo=twitter&style=for-the-badge" alt="tanusinghvisen" /></a> </p>
+<br/>
 
-- 🔭 I’m currently working on **webj3 and design-based project**
+<p>
 
-- 🌱 I’m currently learning **web3.js ,figma , adobe XDInVision studio, axure**
+<a href="https://x.com/enoughtanu" target="_blank">
+<img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=twitter"/>
+</a>
 
-- 👯 I’m looking to collaborate on **web3 projects**
+<a href="https://instagram.com/enoughtanu" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
-- 💬 Ask me about **MERN, Web3**
+<a href="https://linkedin.com/in/enoughtanu" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-- 📫 How to reach me **singhtanu8874@gmail.com,**
+<a href="https://enoughtanu.substack.com" target="_blank">
+<img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white"/>
+</a>
 
-- ⚡ Fun fact **I think I am funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/awwmikasa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tanusinghvisen" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tanusngh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanusngh" height="30" width="40" /></a>
-<a href="https://instagram.com/tanusngh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="taanusngh_" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://elixir-lang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="elixir" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tnusngh&show_icons=true&locale=en&layout=compact" alt="tnusngh" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tnusngh&" alt="tnusngh" /></p>
+## 🧠 What I’m Working On
+
+- building **ai agents & intelligent systems**  
+- exploring **on-chain / web3 products**  
+- training on **ai/ml models & data-driven systems**  
+- learning **data, design & cloud for scalable ai products**  
+
+---
 
 
 
+<h3 align="left">💻 Tech Stack</h3>
+
+---
+
+<div align="center">
+
+### Languages
+<p align="center">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+</p>
+
+### Frontend
+<p align="center">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+</p>
+
+### Backend & Database
+<p align="center">
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma"/>
+<img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+### AI/ML Tools
+<p align="center">
+<img src="https://img.shields.io/badge/LangChain-00C853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Groq_API-FF6D00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ChromaDB-6A1B9A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG_Pipelines-43A047?style=for-the-badge"/>
+</p>
+
+### Web3
+<p align="center">
+<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Motoko-FF9800?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Smart_Contracts-4CAF50?style=for-the-badge"/>
+</p>
+
+### DevOps & Other
+<p align="center">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws"/>
+<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
+</p>
+
+</div>
 
 
+## 🌸 Experience
 
+- **AI Engineer** @ NewGenCode  
+  → building ai agents & intelligent systems  
 
+- **AI Engineer & DevRel** @ Web3Preneur  
+  → web3 + ai + community  
+
+---
+
+## 🌸 Community Involvement
+
+- Volunteer @ GDG Noida  
+  → organizing tech events & community engagement  
+
+- Club Head @ LOOP (College Technical Society)  
+  → leading tech initiatives & student community  
+
+- Team Member @ Team1 Avalanche  
+  → contributing to web3 ecosystem building  
+
+- Contributor @ TON, Algorand & Monad ecosystems  
+  → working across decentralized platforms & communities  
+---
+  ## 🎓 Education
+
+- **Bachelor of Technology in Information Technology (B.Tech)** -  Abdul Kalam Technical University (AKTU)  
+   
+  
+<div align="center">
+
+🌸 *engineering, but make it aesthetic* 🌸
+
+</div>
