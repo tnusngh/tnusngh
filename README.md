@@ -1,6 +1,6 @@
 <h1 align="center">hey, i'm tanu 💅</h1>
 
-<h3 align="center">🚀 GTM & Growth | 🧠 Neuroscience Builder | 🎮 Building a game that hits dopamine, not brainrot</h3>
+<h3 align="center">GTM & Growth |  Neuroscience Builder | Building a game that hits dopamine, not brainrot</h3>
 
 <p align="center">
   <a href="https://x.com/enoughtanu"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
@@ -13,7 +13,7 @@
 
 ---
 
-## 🧠 what i'm building
+##  what i'm building
 
 **a game that uses the same hooks as doomscrolling, but makes you smarter instead of emptier.**
 
